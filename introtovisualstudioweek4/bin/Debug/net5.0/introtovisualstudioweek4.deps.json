@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "introtovisualstudioweek4/1.0.0": {
+        "runtime": {
+          "introtovisualstudioweek4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "introtovisualstudioweek4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
