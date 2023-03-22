@@ -17,8 +17,8 @@ namespace introtovisualstudioweek4
 
             Console.WriteLine("   /|");
             Console.WriteLine("  / |");
-            Console.WriteLine("/___|");
             Console.WriteLine(" /  |");
+            Console.WriteLine("/___|");
 
 
 
